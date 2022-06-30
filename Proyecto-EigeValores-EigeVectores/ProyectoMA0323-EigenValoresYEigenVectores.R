@@ -1,8 +1,16 @@
 ## Ejemplo 1 (3 , 4)  : Resultado => Valores Propios L=4, L=-1 
 ##           (1 , 0)              => Vectores Propios V1(4,1), V2(1,-1)
 
-filas <- 2
-columnas <- 2
+## Ejemplo 2 (2, 1, 0)
+##           (1, 2, 0)
+##           (0, 0, 3)
+
+## Ejemplo 3 (2, 1, 1)
+##           (2, 3, 2)
+##           (1, 1, 2)
+
+filas <- 3
+columnas <- 3
 
 print(paste("En una matriz ",filas,"x",columnas))
 
