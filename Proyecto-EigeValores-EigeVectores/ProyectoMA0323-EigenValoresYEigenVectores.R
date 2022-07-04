@@ -1,5 +1,5 @@
-## Ejemplo 1 (3 , 4)  : Resultado => Valores Propios L=4, L=-1 
-##           (1 , 0)              => Vectores Propios V1(4,1), V2(1,-1)
+## Ejemplo 1 (3 , 4)
+##           (1 , 0)              
 
 ## Ejemplo 2 (2, 1, 0)
 ##           (1, 2, 0)
